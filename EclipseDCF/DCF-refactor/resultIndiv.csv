@@ -1,0 +1,16 @@
+problem;distrib;nbAg+;method;root;nbConsequencesFound;total time;CPU time by SOLAR;extensions;inferences;consequences sent;clauses sents;nb Messages;total size messages;max CPU time by SOLAR;max extensions;max inferences;max consequences sent;max clauses sents;max nb Messages;max total size messages;min CPU time by SOLAR;min extensions;min inferences;min consequences sent;min clauses sents;min nb Messages;min total size messages;root-CPU time by SOLAR;root-extensions;root-inferences;root-consequences sent;root-clauses sents;root-nb Messages;root-total size messages
+toy-pb1;;4;DICF-PB-Async;0;1;1042;61;34;128;0;0;24;20;46;13;48;0;0;8;7;0;3;10;0;0;3;2;46;10;38;0;0;6;5
+toy-pb1;;4;DICF-PB-Async;0;1;1044;61;34;128;0;0;24;20;46;13;48;0;0;8;7;0;3;10;0;0;3;2;46;10;38;0;0;6;5
+toy-pb1;;4;DICF-PB-Async;0;1;1041;79;34;128;0;0;24;20;63;13;48;0;0;8;7;0;3;10;0;0;3;2;63;10;38;0;0;6;5
+toy-pb1;;4;DICF-PB-Async;0;1;1041;31;34;128;0;0;24;20;31;13;48;0;0;8;7;0;3;10;0;0;3;2;31;10;38;0;0;6;5
+toy-pb1;;4;DICF-PB-Async;0;1;1043;77;34;128;0;0;24;20;62;13;48;0;0;8;7;0;3;10;0;0;3;2;62;10;38;0;0;6;5
+toy-pb1;;4;DICF-PB-Async;0;1;1043;62;34;128;0;0;24;20;47;13;48;0;0;8;7;0;3;10;0;0;3;2;47;10;38;0;0;6;5
+toy-pb1;;4;DICF-PB-Async;0;1;1042;78;34;128;0;0;24;20;47;13;48;0;0;8;7;0;3;10;0;0;3;2;47;10;38;0;0;6;5
+toy-pb1;;4;DICF-PB-Async;0;1;1041;47;34;128;0;0;24;20;31;13;48;0;0;8;7;0;3;10;0;0;3;2;31;10;38;0;0;6;5
+toy-pb1;;4;DICF-PB-Async;0;1;1277;62;34;128;0;0;24;20;62;13;48;0;0;8;7;0;3;10;0;0;3;2;62;10;38;0;0;6;5
+toy-pb1;;4;DICF-PB-Async;0;1;1042;62;34;128;0;0;24;20;31;13;48;0;0;8;7;0;3;10;0;0;3;2;31;10;38;0;0;6;5
+toy-pb1;;4;DICF-PB-Async;0;1;1041;31;34;128;0;0;24;20;31;13;48;0;0;8;7;0;3;10;0;0;3;2;31;10;38;0;0;6;5
+toy-pb1;;4;DICF-PB-Async;0;1;1042;61;34;128;0;0;24;20;46;13;48;0;0;8;7;0;3;10;0;0;3;2;46;10;38;0;0;6;5
+toy-pb1;;4;DICF-PB-Async;0;1;1041;61;34;128;0;0;24;20;31;13;48;0;0;8;7;0;3;10;0;0;3;2;31;10;38;0;0;6;5
+toy-pb1;;4;DICF-PB-Async;0;1;1042;46;34;128;0;0;24;20;46;13;48;0;0;8;7;0;3;10;0;0;3;2;46;10;38;0;0;6;5
+toy-pb1;;4;DICF-PB-Async;0;1;1043;62;34;128;0;0;24;20;31;13;48;0;0;8;7;0;3;10;0;0;3;2;31;10;38;0;0;6;5

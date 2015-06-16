@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="IndepClause" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="indepclause"/>
+			<item value="computeNewCons"/>
+			<item value="float"/>
+			<item value="added"/>
+			<item value="[a0, d7, not_a1, not_a2, not_d6, not_d0, d3, d2, d1, not_d5, d4]"/>
+			<item value="added to"/>
+			<item value="Sent"/>
+			<item value="ConsFinding("/>
+		</list>
+		<list key="replacehistory">
+			<item value="double"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="257" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="381" key="DIALOG_HEIGHT"/>
+		<item value="281" key="DIALOG_Y_ORIGIN"/>
+		<item value="972" key="DIALOG_X_ORIGIN"/>
+	</section>
+</section>

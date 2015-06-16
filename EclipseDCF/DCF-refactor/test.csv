@@ -1,0 +1,11 @@
+problem;distrib;nbAg+;method;root;nbConsequencesFound;total time;CPU time by SOLAR;extensions;inferences;consequences sent;clauses sents;nb Messages;total size messages;max CPU time by SOLAR;max extensions;max inferences;max consequences sent;max clauses sents;max nb Messages;max total size messages;min CPU time by SOLAR;min extensions;min inferences;min consequences sent;min clauses sents;min nb Messages;min total size messages;root-CPU time by SOLAR;root-extensions;root-inferences;root-consequences sent;root-clauses sents;root-nb Messages;root-total size messages
+test;;4;DICF-PB-Async;0;1;1043;46;34;128;0;0;24;20;31;13;48;0;0;8;7;0;3;10;0;0;3;2;31;10;38;0;0;6;5
+test;;4;DICF-PB-Async;0;1;1042;47;34;128;0;0;24;20;47;13;48;0;0;8;7;0;3;10;0;0;3;2;47;10;38;0;0;6;5
+test;;4;DICF-PB-Async;0;0;1043;46;14;52;0;0;12;8;46;4;16;0;0;4;3;0;3;10;0;0;1;0;46;3;12;0;0;4;3
+test;;2;DICF-PB-Async;0;0;1041;31;3;9;0;0;3;1;31;2;5;0;0;2;1;0;1;4;0;0;1;0;31;1;4;0;0;2;1
+test;;2;DICF-PB-Async;0;1;1041;31;3;10;0;0;4;2;31;2;6;0;0;2;1;0;1;4;0;0;2;1;31;1;4;0;0;2;1
+test;;2;DICF-PB-Async;0;0;1041;31;2;7;0;0;3;1;31;1;4;0;0;2;1;0;1;3;0;0;1;0;31;1;4;0;0;2;1
+test;;2;DICF-PB-Async;0;1;1039;47;3;10;0;0;4;2;31;2;6;0;0;2;1;16;1;4;0;0;2;1;31;1;4;0;0;2;1
+test;;2;DICF-PB-Async;0;1;1074;47;8;30;0;0;6;4;31;4;15;0;0;3;2;16;4;15;0;0;3;2;31;4;15;0;0;3;2
+test;;2;DICF-PB-Async;0;1;1116;31;8;30;0;0;6;4;31;4;15;0;0;3;2;0;4;15;0;0;3;2;0;4;15;0;0;3;2
+test;;2;DICF-PB-Async;0;1;1043;46;8;30;0;0;6;4;46;4;15;0;0;3;2;0;4;15;0;0;3;2;0;4;15;0;0;3;2
